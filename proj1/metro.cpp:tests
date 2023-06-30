@@ -1,0 +1,23 @@
+[
+	{
+		"correct_answers":
+		[
+			"Enter the source station: Enter the destination station: Shortest path from Chennai Central to LIC:\nStations: Chennai Central -> Government Estate -> LIC\nTotal Fare: $30"
+		],
+		"test": "Chennai Central\nLIC\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Enter the source station: Enter the destination station: Shortest path from Chennai Central to Kilpauk:\nStations: Airport -> Menambakkam Metro -> Nanganallur Road -> Alandur -> Ekkattuthangal -> Ashok Nagar -> Vadapalani -> Arumbakkam -> CMBT -> Koyambedu -> Thirumangalam -> Anna Nagar Tower -> Anna Nagar East -> Shenoy Nagar -> Kilpauk\nTotal Fare: $150"
+		],
+		"test": "Airport\nKilpauk\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Enter the source station: Enter the destination station: Shortest path from Chennai Central to Airport:\nStations: St. Thomas Metro -> Alandur -> Nanganallur Road -> Menambakkam Metro -> Airport\nTotal Fare: $50"
+		],
+		"test": "St. Thomas Metro\nAirport\n"
+	}
+]
